@@ -1,0 +1,45 @@
+
+		Noxim - the NoC Simulator
+		(C) University of Catania
+
+
+Info: (I804) /IEEE_Std_1666/deprecated: use of () to specify sensitivity is deprecated, use << instead
+
+Info: (I804) /IEEE_Std_1666/deprecated: sc_sensitive_pos is deprecated use sc_sensitive << with pos() instead
+Reset... done! Now running for 100000 cycles...
+the processing element 28stops at 1258959000.00000000
+the processing element 30stops at 1320776000.00000000
+the processing element 41stops at 1420815000.00000000
+the processing element 34stops at 1426524000.00000000
+the processing element 19stops at 1440012000.00000000
+the processing element 32stops at 1440996000.00000000
+the processing element 25stops at 1451087000.00000000
+the processing element 38stops at 1471495000.00000000
+the processing element 36stops at 1473749000.00000000
+the processing element 21stops at 1521209000.00000000
+the processing element 17stops at 1525704000.00000000
+the processing element 12stops at 1547147000.00000000
+the processing element 8stops at 1552320000.00000000
+the processing element 15stops at 1577854000.00000000
+the processing element 51stops at 1606119000.00000000
+the processing element 45stops at 1610619000.00000000
+the processing element 23stops at 1611781000.00000000
+the processing element 49stops at 1616147000.00000000
+the processing element 90stops at 1624909000.00000000
+the processing element 58stops at 1646179000.00000000
+the processing element 73stops at 1650569000.00000000
+the processing element 10stops at 1653490000.00000000
+the processing element 47stops at 1653805000.00000000
+the processing element 82stops at 1663412000.00000000
+the processing element 100stops at 1663694000.00000000
+the processing element 54stops at 1672871000.00000000
+the processing element 97stops at 1673940000.00000000
+the processing element 92stops at 1676352000.00000000
+the processing element 42stops at 1679363000.00000000
+the processing element 75stops at 1681599000.00000000
+the processing element 106stops at 1683397000.00000000
+the processing element 57stops at 1683751000.00000000
+the processing element 133stops at 1686657000.00000000
+the processing element 43stops at 1689091000.00000000
+the processing element 105stops at 1695079000.00000000
+the processing element 56stops at 1697922000.00000000

@@ -1,0 +1,100 @@
+the processing element 103stops at 56222000.00000000
+the processing element 67stops at 56319000.00000000
+the processing element 69stops at 56324000.00000000
+the processing element 75stops at 56333000.00000000
+the processing element 82stops at 56339000.00000000
+the processing element 50stops at 56347000.00000000
+the processing element 56stops at 56360000.00000000
+the processing element 116stops at 56372000.00000000
+the processing element 62stops at 56397000.00000000
+the processing element 58stops at 56407000.00000000
+the processing element 40stops at 56482000.00000000
+the processing element 136stops at 56572000.00000000
+the processing element 86stops at 56622000.00000000
+the processing element 122stops at 56657000.00000000
+the processing element 125stops at 56662000.00000000
+the processing element 115stops at 56732000.00000000
+the processing element 32stops at 56737000.00000000
+the processing element 85stops at 56832000.00000000
+the processing element 83stops at 56832000.00000000
+the processing element 110stops at 56837000.00000000
+the processing element 134stops at 56847000.00000000
+the processing element 84stops at 56967000.00000000
+the processing element 73stops at 56987000.00000000
+the processing element 101stops at 56987000.00000000
+the processing element 95stops at 57047000.00000000
+the processing element 19stops at 57067000.00000000
+the processing element 124stops at 57107000.00000000
+the processing element 99stops at 57162000.00000000
+the processing element 29stops at 57162000.00000000
+the processing element 71stops at 57257000.00000000
+the processing element 97stops at 57312000.00000000
+the processing element 112stops at 57312000.00000000
+the processing element 98stops at 57402000.00000000
+the processing element 120stops at 57477000.00000000
+the processing element 108stops at 57512000.00000000
+the processing element 100stops at 57532000.00000000
+the processing element 109stops at 57547000.00000000
+the processing element 138stops at 57577000.00000000
+the processing element 135stops at 57612000.00000000
+the processing element 106stops at 57672000.00000000
+the processing element 111stops at 57682000.00000000
+the processing element 20stops at 57792000.00000000
+the processing element 7stops at 57817000.00000000
+the processing element 113stops at 57847000.00000000
+the processing element 127stops at 57892000.00000000
+the processing element 132stops at 58022000.00000000
+the processing element 72stops at 58027000.00000000
+the processing element 133stops at 58057000.00000000
+the processing element 46stops at 58152000.00000000
+the processing element 18stops at 58162000.00000000
+the processing element 33stops at 58182000.00000000
+the processing element 34stops at 58277000.00000000
+the processing element 137stops at 58297000.00000000
+the processing element 140stops at 58302000.00000000
+the processing element 38stops at 58332000.00000000
+the processing element 60stops at 58412000.00000000
+the processing element 17stops at 58487000.00000000
+the processing element 96stops at 58497000.00000000
+the processing element 28stops at 58527000.00000000
+the processing element 21stops at 58527000.00000000
+the processing element 59stops at 58637000.00000000
+the processing element 37stops at 58697000.00000000
+the processing element 8stops at 58717000.00000000
+the processing element 141stops at 58717000.00000000
+the processing element 49stops at 58732000.00000000
+the processing element 27stops at 58752000.00000000
+the processing element 48stops at 58857000.00000000
+the processing element 16stops at 58872000.00000000
+the processing element 6stops at 58887000.00000000
+the processing element 139stops at 58907000.00000000
+the processing element 142stops at 59052000.00000000
+the processing element 15stops at 59077000.00000000
+the processing element 119stops at 59077000.00000000
+the processing element 131stops at 59092000.00000000
+the processing element 5stops at 59112000.00000000
+the processing element 47stops at 59197000.00000000
+the processing element 4stops at 59217000.00000000
+the processing element 35stops at 59272000.00000000
+the processing element 14stops at 59402000.00000000
+
+Info: /OSCI/SystemC: Simulation stopped by user.
+Noxim simulation completed.
+ ( 59402.00000000 cycles executed)
+% Total received packets: 42952
+% Total received flits: 150338
+% Global average throughput (flits/cycle): 0.05604365
+% Throughput (flits/cycle/IP): 0.01045059
+% Max delay (cycles): 3032.00000000
+% Total energy (J): 1.8394937263e-05
+% received flits to slice 0 150775
+% transmitted flits from slice 0 150824
+% average delay of slice 0 1.7106344291e+02
+
+Info: (I804) /IEEE_Std_1666/deprecated: You can turn off warnings about
+             IEEE 1666 deprecated features by placing this method call
+             as the first statement in your sc_main() function:
+
+  sc_core::sc_report_handler::set_actions( "/IEEE_Std_1666/deprecated",
+                                           sc_core::SC_DO_NOTHING );
+
